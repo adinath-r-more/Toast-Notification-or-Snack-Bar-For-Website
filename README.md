@@ -52,6 +52,6 @@ It allows websites to show temporary alert messages such as success, error, warn
 ---
 
 ## 🌐 Live Demo
-*(Optional – add GitHub Pages link)*
+(https://adinath-r-more.github.io/Toast-Notification-or-Snack-Bar-For-Website/)
 
 
